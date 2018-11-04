@@ -1,0 +1,41 @@
+.myphoto{
+    text-align: center;
+}
+img {
+    width: 200px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 115%;
+    font-weight: normal;
+    }
+div {
+    margin: 12px;
+    text-indent: 2in; /* Отступ первой строки в пикселах */
+    padding-right: 30px;
+    }
+hr {
+    padding-right: 50px;
+}
+p1 {
+    margin: 2in;
+    font-size: 115%;
+    font-weight: normal;
+    }
+ul {
+    padding: 0; /* Убираем поля */
+    margin-left: 230px; /* Отступ слева */
+    font-size: 115%;
+}
+a {
+    font-size: 115%;
+    font-weight: normal;
+    margin: 2in;
+    padding: 0; /* Убираем поля */
+    margin-left: 192px; /* Отступ слева */
+}
+.p-top-10 {
+    padding-top: 30px;
+}
