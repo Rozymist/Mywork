@@ -19,11 +19,6 @@ div {
 hr {
     padding-right: 50px;
 }
-p1 {
-    margin: 2in;
-    font-size: 115%;
-    font-weight: normal;
-    }
 ul {
     padding: 0; /* Убираем поля */
     margin-left: 230px; /* Отступ слева */
@@ -32,7 +27,6 @@ ul {
 a {
     font-size: 115%;
     font-weight: normal;
-    margin: 2in;
     padding: 0; /* Убираем поля */
     margin-left: 192px; /* Отступ слева */
 }
